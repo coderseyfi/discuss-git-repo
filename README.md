@@ -1,6 +1,6 @@
 > git config --global user.name "Seyfaddinmn" <br/>
 > git config --global user.email "seyfaddinmn@code.  edu.az" <br/>
-> git config --global user.password "muhsin831902" <br/>
+> git config --global user.password "00000000000" <br/>
 
 
 
